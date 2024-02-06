@@ -50,7 +50,8 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
   font-family: 'Oswald', 'Roboto', sans-serif;
 }
 
@@ -61,4 +62,5 @@ a {
 button {
   font: inherit;
   cursor: pointer;
+  color: blue;
 }
