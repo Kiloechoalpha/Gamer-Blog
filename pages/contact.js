@@ -1,5 +1,5 @@
 import React from 'react';
-import ContactForm from './ContactForm'; // Assuming 'ContactForm' is in the same directory or you provide the correct relative path
+import ContactForm from './ContactForm'; 
 
 function ContactPage() {
   return (
