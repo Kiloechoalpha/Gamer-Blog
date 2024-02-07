@@ -10,13 +10,13 @@ function Hero() {
         <Image
           src="/images/site/bk.png"
           alt="kiloechoalpha"
-          width={300}
-          height={300}
+          width={500}
+          height={500}
         />
       </div>
       <h1>Hi, I am Kiloechoalpha</h1>
       <p>
-      I am passionate about video games and regularly share my insights, experiences, and thoughts on various gaming titles through my blog.
+      I am an OG gamer, I share my insights, experiences, and thoughts on various games, check out Angry Ape gaming on YouTube.
       </p>
     </section>
   );
