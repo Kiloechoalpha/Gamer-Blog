@@ -15,13 +15,13 @@ function ContactForm() {
             <label htmlFor="name">Your Name</label>
             <input type="text" id="name" required />
           </div>
-        </div>
-        <div className={classes.control}>
-          <label htmlFor="message">Your Message</label>
-          <textarea id="message" rows="5"></textarea>
-        </div>
-        <div className={classes.control}>
-          <button type="submit">Send Message</button>
+          <div className={classes.control}>
+            <label htmlFor="message">Your Message</label>
+            <textarea id="message" rows="5"></textarea>
+          </div>
+          <div className={classes.control}>
+            <button type="submit">Send Message</button>
+          </div>
         </div>
       </form>
     </section>

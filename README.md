@@ -1,2 +1,2 @@
-# Gaming-Blog-Post-Web-App
-This is an app I'm working on where by the user can add blog posts about their favorite games 
+# Gaming-Blog
+  I am working on a web app that will create a community for gamers where they can post about their current gameplay as well as teir thoughts about various games.
