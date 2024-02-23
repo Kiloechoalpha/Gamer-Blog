@@ -5,7 +5,7 @@ Sure, here's a refined description for your web app:
 
 **Welcome to Gamer Blog - Your Gaming Community Hub**
 
-[Your Web App Name] is your ultimate destination for connecting with fellow gamers, sharing your latest gaming adventures, and diving deep into discussions about your favorite titles. Whether you're a hardcore gamer, a casual player, or somewhere in between, our platform provides a vibrant space where gaming enthusiasts of all kinds come together.
+Gamer Library is your ultimate destination for connecting with fellow gamers, sharing your latest gaming adventures, and diving deep into discussions about your favorite titles. Whether you're a hardcore gamer, a casual player, or somewhere in between, our platform provides a vibrant space where gaming enthusiasts of all kinds come together.
 
 **Features:**
 
