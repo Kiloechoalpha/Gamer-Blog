@@ -8,7 +8,7 @@ import ContactForm from './ContactForm';
 function ContactPage() {
   return (
     <div>
-      <h1>Contact Us</h1>
+      <h1>If you want some tips and tricks, contact us</h1>
       <ContactForm />
     </div>
   );
