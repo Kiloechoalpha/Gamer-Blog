@@ -1,7 +1,7 @@
 ---
 title:  The Endless Adventures of Red Dead Redemption
 excerpt: Red Dead Redemption is an open world wild west game
-image: rdr2.png
+image: RDR2.png
 isFeatured: true
 date: '2021-10-30'
 ---

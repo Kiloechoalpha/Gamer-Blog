@@ -1,11 +1,10 @@
 ---
 title: 'Reliving Adventure: Playing Far Cry 3'
 date: '2023-09-25'
-image: FC3.png
+image: fc3.png
 excerpt: Fat Cry 3 is an Open World First person shooter game developed by Ubisoft.
 isFeatured: true
 ---
-
 
 
 
