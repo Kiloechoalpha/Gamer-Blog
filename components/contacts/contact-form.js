@@ -4,7 +4,7 @@ import classes from './contact-form.module.css';
 function ContactForm() {
   return (
     <section className={classes.contact}>
-      <h1>How can I help you?</h1>
+      <h1>Need tips and tricks</h1>
       <form className={classes.form}>
         <div className={classes.controls}>
           <div className={classes.control}>
@@ -20,7 +20,7 @@ function ContactForm() {
             <textarea id="message" rows="5"></textarea>
           </div>
           <div className={classes.control}>
-            <button type="submit">Send Message</button>
+            <button type="submit">Send</button>
           </div>
         </div>
       </form>
