@@ -1,7 +1,4 @@
 # Gamer Library
-Sure, here's a refined description for your web app:
-
----
 
 **Welcome to Gamer Library - Your Gaming Community Hub**
 
