@@ -2,7 +2,7 @@
 title: 'Into the shadows'
 date: '2024-02-28'
 image: aragami2.png
-info: Aragami 2 is a third person stealth game where you play as an assassin with the power to control the shadows. Join the shadow clan and fight the invader armies to protect your people. You are one of the last elite warriors of your kin, the Aragami.
+excerpt: Aragami 2 is a third person stealth game where you play as an assassin with the power to control the shadows. Join the shadow clan and fight the invader armies to protect your people. You are one of the last elite warriors of your kin, the Aragami.
 isFeatured: true
 ---
 
@@ -21,6 +21,7 @@ As an Aragami, you have the ability to control shadows, granting you access to a
 
 
 **Co-op Multiplayer:** 
+
  One of the new features introduced in "Aragami 2" is the option for cooperative multiplayer, allowing players to team up with friends to tackle missions together. This adds a new layer of strategy and coordination to the gameplay, as players can work together to execute stealthy takedowns and overcome obstacles.
 
 
@@ -34,4 +35,4 @@ As an Aragami, you have the ability to control shadows, granting you access to a
  With multiple paths, optional objectives, and different playstyles to explore, "Aragami 2" offers plenty of replay value. Players can choose to replay missions to discover hidden secrets, complete challenges, or experiment with different approaches to stealth.
 
 
-If you want the entire experience, check it out [here](https://www.ubisoft.com/en-gb/game/far-cry/far-cry-3).
+If you want the entire experience, check it out [here](https://store.steampowered.com/app/1158370/Aragami_2/).
