@@ -16,7 +16,7 @@ function Hero() {
       </div>
       <h1>Hi, I am Kiloechoalpha</h1>
       <p>
-      I am an OG gamer, I share my insights, experiences, and thoughts on various games, check out Angry Ape gaming on YouTube.
+      I am an OG in the gaming world , I share my insights, experiences, and thoughts on various games, check out Angry Ape gaming on YouTube.
       </p>
     </section>
   );
