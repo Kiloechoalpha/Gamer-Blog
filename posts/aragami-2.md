@@ -2,7 +2,7 @@
 title: 'One-Armed Wolf'
 date: '2024-04-03'
 image: sekiro.png
-excerpt: Sekiro: Shadows Die Twice is a critically acclaimed action-adventure game set in feudal Japan, where players embody a skilled shinobi warrior on a quest for revenge and redemption.
+excerpt: Sekiro is a critically acclaimed action-adventure game set in feudal Japan, where players embody a skilled shinobi warrior on a quest for revenge and redemption.
 ---
 
 Set in the late 1500s, Sekiro immerses players in a gripping tale of revenge and redemption, where honor and duty collide amidst the chaos of war. As the one-armed wolf, players navigate treacherous landscapes, confront fearsome adversaries, and master the way of the shinobi to rescue their kidnapped lord and seek vengeance upon their enemies. 
