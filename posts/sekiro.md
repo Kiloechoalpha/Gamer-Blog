@@ -1,7 +1,7 @@
 ---
 title: 'One-Armed Wolf'
 date: '2024-04-03'
-image: sekiro.png
+image: sekiro.jpg
 excerpt: Sekiro is a critically acclaimed action-adventure game set in feudal Japan, where players embody a skilled shinobi warrior on a quest for revenge and redemption.
 ---
 
