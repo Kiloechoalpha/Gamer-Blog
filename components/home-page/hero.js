@@ -8,8 +8,8 @@ function Hero() {
       
       <div className={classes.image}>
         <Image
-          src="/images/site/bk.png"
-          alt="kiloechoalpha"
+          src="https://www.canva.com/design/DAFoPezY-Fk/icViOGUX8MZfnTrNtiR8ZA/edit"
+          alt="Angry Ape Gaming"
           width={500}
           height={500}
         />
