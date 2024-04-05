@@ -1,25 +1,27 @@
 import Link from "next/link";
 import Logo from './logo';
-import classes from './main-navigation.module.css';
+import classes from './main-navigation.module.css'; 
 
-function MainNavifation() {
+function MainNavigation() {
   return (
-    <header className={classes.header}>
+    <header className={styles.header}>
       <Link href='/'>
-        
+        <a>
           <Logo />
-       
+        </a>
       </Link>
       <nav>
-        <ul>
+        <ul className={styles.navLinks}>
           <li>
-            <Link href='/posts'>Posts</Link>
+            <Link href='/posts'>
+              Posts
+            </Link>
           </li>
-
+          {/* Add more navigation links here if needed */}
         </ul>
       </nav>
     </header>
   );
 }
 
-export default MainNavifation;
+export default MainNavigation;
